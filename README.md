@@ -1,1 +1,2 @@
 # Laptop-Price-Prediction
+Using the data of information of different kind and model of Laptop to predict the Price of them based on their feature, e.g Manufacturer, Screen, CPU, RAM, GPU,… The visualization is used for extracting the most useful features for the data. The model used is XGBoosting, after traning and using GridSearch CV for finding the best models parameters, the R2 score for the model is about 0.88
